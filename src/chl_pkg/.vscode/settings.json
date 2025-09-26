@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/chabelypecina/chl_project/install/chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/wamv_imu_speed_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/utm_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/ejemplo1_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/create3_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/UTM/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/Chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/vrx_ws/install/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_teleop/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_examples_py/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_examples_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/chabelypecina/chl_project/install/chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/wamv_imu_speed_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/utm_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/ejemplo1_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/create3_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/UTM/lib/python3.12/site-packages",
+        "/home/chabelypecina/chabs_ws/install/Chl_pkg/lib/python3.12/site-packages",
+        "/home/chabelypecina/vrx_ws/install/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_teleop/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_examples_py/lib/python3.12/site-packages",
+        "/home/chabelypecina/create3_examples_ws/install/create3_examples_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
