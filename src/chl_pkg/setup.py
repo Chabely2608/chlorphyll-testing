@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             "chl_data = chl_pkg.chl_conversion:main",
-            "chl_csv = chl_pkg.chl_csv:main"
+            "chl_getcsv = chl_pkg.chl_getcsv:main"
         ],
     },
 )
