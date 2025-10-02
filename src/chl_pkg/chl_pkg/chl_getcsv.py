@@ -12,7 +12,7 @@ class ChlCSV(Node):
         super().__init__('chl_csv')
 
         # Subs
-        self.create_subscription(NavSatFix, 'fix', self.gps_callback, 10)
+        self.create_subscription(NavSatFix, 'fix1', self.gps_callback, 10)
         self.create_subscription(Float64, 'chl_data', self.chl_callback, 10)
         self.last_gps = None  
 
